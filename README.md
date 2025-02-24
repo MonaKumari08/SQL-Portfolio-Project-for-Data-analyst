@@ -38,7 +38,7 @@ The project uses three datasets:
 ## 🚀 Getting Started
 ### Prerequisites
 Ensure you have:
-- A SQL database system (MySQL, PostgreSQL, SQLite, etc.)
+- A SQL database system (MySQL, PostgreSQL, SQL Server etc.)
 - Basic knowledge of SQL queries
 
 ### Steps to Run the Project
